@@ -1,0 +1,9 @@
+string1*Groot: 'I am Groot.'
+
+string2*Groot: 'I am not boring'
+
+string3*Groot: 'By the way, this is a friend of mine, Tree.'
+
+string4*Groot: 'There shall be no knifing one another.'
+
+string5*Groot: 'Everybody knows who's in charge.'

@@ -1,0 +1,5 @@
+Art/f.png*f0
+Art/Star.png*Star
+Art/Face.png*Face
+Art/wall.png*wall
+Art/man.png*man
